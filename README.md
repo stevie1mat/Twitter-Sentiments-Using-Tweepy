@@ -61,5 +61,3 @@ RT @tony_broach: Chris Wallace on Fox news right now talking crap
 about Donald Trump news conference it seems he can't face the truth eithe…
 RT @fravel: With False Claims, Donald Trump Attacks Media on Crowd Turnout 
 Aziz Ansari Just Hit Donald Trump Hard In An Epic Saturday NIght Live Monologue
-
-Tutorial At: https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/
